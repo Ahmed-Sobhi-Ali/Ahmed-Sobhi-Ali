@@ -156,7 +156,7 @@ graph TD
 
 ## 🎯 Let’s Connect
 
-📧 [Email](ahmed.sobhialiy@gmail.com)  
-💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](http://linkedin.com/in/ahmed-sobhi-ali))  
+📧 [Email](mailto:ahmed.sobhialiy@gmail.com)  
+💼 [LinkedIn](http://linkedin.com/in/ahmed-sobhi-ali)  
 
-🚀 Always open to collaboration and new challenges in cybersecurity!
+🚀 Open to collaboration and new challenges in cybersecurity!
