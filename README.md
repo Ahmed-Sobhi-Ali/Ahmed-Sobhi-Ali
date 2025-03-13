@@ -139,11 +139,10 @@ graph TD
 
 ## 📂 Featured Projects
 
-- **🔓 Advanced Exploitation Toolkit** – Developing custom exploits and payloads for penetration testing.
-- **🛡️ Security Hardening Framework** – Automating security configurations to enforce best practices.
-- **🕵️‍♂️ Threat Intelligence Platform** – Using OSINT for proactive threat analysis.
-- **📡 SIEM & Log Analysis Toolkit** – Enhancing security monitoring and forensic investigations.
-
+- **🔒 Advanced End-to-End Encryption System** – Implemented AES encryption for secure communication with a user-friendly GUI and server-side encrypted connections.
+- **💻 Remote Access & Keylogger Tool** – Developed a Python script with Netcat Reverse Shell, keylogging, and data exfiltration for remote monitoring.
+- **🦠 Ransomware Simulation** – Created a ransomware simulation with file encryption, persistence, anti-debugging techniques, and network propagation.
+- **🛡️ Project Shield - Comprehensive Data Protection System** – Designed a data protection system with AES encryption, secure file deletion, integrity monitoring, and future AI-powered security.
 ---
 
 ## 📖 Current Learning & Research
@@ -157,8 +156,7 @@ graph TD
 
 ## 🎯 Let’s Connect
 
-📧 [Email](mailto:your-email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-🐙 [GitHub](https://github.com/your-github/)  
+📧 [Email](ahmed.sobhialiy@gmail.com)  
+💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](http://linkedin.com/in/ahmed-sobhi-ali))  
 
 🚀 Always open to collaboration and new challenges in cybersecurity!
